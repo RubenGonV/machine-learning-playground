@@ -55,6 +55,7 @@ pip install -r requirements.txt
 A curated list of resources I revisit while working on this repo:
 
 * *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — A. Géron
+* Machine learning Roadmap: [https://roadmap.sh/machine-learning](https://roadmap.sh/machine-learning)
 * Scikit-learn documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 * PyTorch tutorials: [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
 
