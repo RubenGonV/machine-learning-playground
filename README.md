@@ -15,7 +15,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your_username>/machine-learning-playground.git
+git clone https://github.com/RubenGonV/machine-learning-playground.git
 cd machine-learning-playground
 
 # Install requirements
