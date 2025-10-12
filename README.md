@@ -58,6 +58,7 @@ A curated list of resources I revisit while working on this repo:
 * Machine learning Roadmap: [https://roadmap.sh/machine-learning](https://roadmap.sh/machine-learning)
 * Scikit-learn documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 * PyTorch tutorials: [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+* Machine Learning 
 
 ---
 
